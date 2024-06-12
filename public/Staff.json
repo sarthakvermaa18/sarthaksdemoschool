@@ -1,0 +1,64 @@
+[
+    
+    {
+        "img":"/Teachers-pic/h-teacher1.jpeg",
+        "name": "Mrs. Desai",
+        "sub":"Mathematics"
+    },
+    {
+        "img":"/Teachers-pic/h-teacher2.jpeg",
+        "name": "Ms. Iyer",
+        "sub":"Geography"
+    },
+    {
+        "img":"/Teachers-pic/h-teacher3.jpeg",
+        "name": "Dr. Singh",
+        "sub":"Computer Science"
+    },
+    {
+        "img":"/Teachers-pic/h-teacher4.jpeg",
+        "name": "Mrs. Chatterjee",
+        "sub":"Art"
+    },
+    {
+        "img":"/Teachers-pic/h-teacher5.jpeg",
+        "name": " Mr. Rao",
+        "sub":"Physics"
+    },
+    {
+        "img":"/Teachers-pic/p-teacher1.jpeg",
+        "name": "Ms. Banerjee",
+        "sub":"Biology"
+    },
+    {
+        "img":"/Teachers-pic/p-teacher2.jpeg",
+        "name": "Professor Reddy",
+        "sub":"Economics"
+    },
+    {
+        "img":"/Teachers-pic/p-teacher3.jpeg",
+        "name": "Mrs. Gupta",
+        "sub":"Chemistry"
+    },
+    {
+        "img":"/Teachers-pic/p-teacher4.jpeg",
+        "name": "Dr. Patel",
+        "sub":"History"
+    },
+    {
+        "img":"/Teachers-pic/p-teacher5.jpeg",
+        "name": "Mr. Sharma",
+        "sub":"Hindi Literature"
+    },
+    {
+        "img":"/Classes-pic/primary-teacher2.jpg",
+        "name": "Mrs. Khan",
+        "sub":"Music"
+    },
+    {
+        "img":"/Classes-pic/primary-teacher1.jpg",
+        "name": "Professor Menon",
+        "sub":"Political Science"
+    }
+     
+]

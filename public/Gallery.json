@@ -1,0 +1,172 @@
+{
+    "enviroment-day": [
+    
+        {
+            "img":"/Teachers-pic/h-teacher1.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        }
+      
+       
+         
+    ],
+    "workshops-students": [
+    
+        {
+            "img":"/Teachers-pic/h-teacher1.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher1.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher5.jpeg"
+        },
+        {
+            "img":"/Classes-pic/primary-teacher2.jpg"
+        },
+        {
+            "img":"/Classes-pic/primary-teacher1.jpg"
+        }
+         
+    ],
+
+    "childrens-day": [
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher1.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/p-teacher5.jpeg"
+        },
+        {
+            "img":"/Classes-pic/primary-teacher2.jpg"
+        },
+        {
+            "img":"/Classes-pic/primary-teacher1.jpg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        }
+    ],
+    "celebration": [
+        {
+            "img":"/Teachers-pic/p-teacher5.jpeg"
+        },
+        {
+            "img":"/Classes-pic/primary-teacher2.jpg"
+        },
+        {
+            "img":"/Classes-pic/primary-teacher1.jpg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        }
+    ],
+    "teachers-day": [
+        
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        }
+    ],
+    "farewell": [
+        
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        }
+    ],
+    "independence-day": [
+        
+        {
+            "img":"/Teachers-pic/h-teacher2.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher3.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher4.jpeg"
+        },
+        {
+            "img":"/Teachers-pic/h-teacher5.jpeg"
+        }
+    ]
+
+
+}
